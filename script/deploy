@@ -1,5 +1,6 @@
 #!/bin/sh
 
+
 ssh ubuntu@65.0.184.18 <<EOF
     cd ~/node-app
     git pull origin main

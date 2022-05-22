@@ -7,6 +7,5 @@ ssh ubuntu@65.0.184.18 <<EOF
     . ~/.nvm/nvm.sh
     nvm install v10.11.0
     npm install
-    npm install -g nodemon pm2
     exit
 EOF
